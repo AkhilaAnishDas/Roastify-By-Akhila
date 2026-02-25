@@ -1,0 +1,8 @@
+{
+  "name": "ROASTIFY",
+  "description": "A witty AI-powered roast generator with a vintage comedy poster aesthetic. Get roasted by the smartest AI comedian around.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
